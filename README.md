@@ -2,13 +2,13 @@
 
 **ENGR110: Engineering Orientation & Ethics | Northern Caribbean University | April 2022**
 
-A small-scale, hand-sized hovercraft designed and built from scratch, demonstrating air-cushion lift and horizontal thrust propulsion — engineered end-to-end from concept sketches through a formal design comparison to a working physical prototype.
+A small-scale, hand-sized hovercraft designed and built from scratch, demonstrating air-cushion lift and horizontal thrust propulsion engineered end-to-end from concept sketches through a formal design comparison to a working physical prototype.
 
 ## Project Goal
 Design and build a working hovercraft model capable of propelling itself horizontally across a distance of 4+ yards, using a single propulsion system to generate both lift (air cushion) and thrust (forward movement), built to a **$50 budget** and simple, accessible materials.
 
 ## Engineering Design Process
-Two candidate designs were drafted in **AutoCAD**, then evaluated against a formal weighted criteria matrix before selecting a final design — a structured engineering decision process rather than just building the first idea:
+Two candidate designs were drafted in **AutoCAD**, then evaluated against a formal weighted criteria matrix before selecting a final design: a structured engineering decision process rather than just building the first idea:
 
 | Criteria | Max Score | Design 1 | Design 2 (Selected) |
 |---|---|---|---|
